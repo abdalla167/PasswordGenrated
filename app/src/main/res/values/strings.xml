@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordGenrated</string>
+    <string name="copy">Copy</string>
+    <string name="password_copied">Copied to clipboard</string>
+</resources>
